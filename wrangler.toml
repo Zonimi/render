@@ -11,5 +11,5 @@ CACHE_CONTROL = "max-age=86400"
 
 [[r2_buckets]]
 binding = "R2_BUCKET"
-bucket_name = "bucket"         # Set this to your R2 bucket name. Required #
+bucket_name = "bucket"         # Set this to your R2 bucket name. Required 
 preview_bucket_name = "bucket" # Set this to your preview R2 bucket name. Can be equal to bucket_name. Optional
